@@ -69,5 +69,5 @@ myself? Thanks
 
       | file | What it proves |
       |---|---|
-      | [evidence1](evidence/test)
+      | [evidence1](evidence/lab02.osapng)
       
