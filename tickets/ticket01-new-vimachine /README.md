@@ -69,5 +69,6 @@ myself? Thanks
 
       | file | What it proves |
       |---|---|
-      | [evidence1](evidence/lab02osa.png) |
+      | [evidence1](evidence/lab02osa.png) | Proves that the VirtualBox Guest Additions ISO was mounted as drive D: and that the core installation wizard was successfully launched with mandatory guest integration components pre-selected. |
+      | [evidence1](evidence/test)] | 
       
