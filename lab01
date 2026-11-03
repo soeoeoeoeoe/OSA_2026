@@ -1,0 +1,31 @@
+# Lab 01 — Create your own Virtual Machine
+
+## 1. What was asked
+
+From: Aigerim T. (Office Manager)
+Subject: test machine for new dev
+Hi, we have someone starting on Monday and he needs a test computer
+set up. Nothing special, just so he can try things without breaking
+anything. Can you write down how to do it so I can do the next one
+myself? Thanks
+'''
+
+## 2. What was actually needed
+
+- The brief asks for a "test computer set up so he can try things without breaking anything." In practice, this requires a virtualized environment with a snapshot mechanism so accidental system breakages can be rolled back without reinstalling the OS.
+
+### Hypervisor License
+* **Tool:** Oracle VM VirtualBox
+
+## Resource Justification
+
+I allocated **2 vCPUs**, **4 GB RAM**, and a **25 point 0 GB dynamically allocated virtual disk** to the Ubuntu Server guest. 
+* **vCPU (2 cores):** Keeps guest execution responsive while staying within the threshold of at most half of the host's physical cores.
+* **RAM (4 GB):** Leaves ample headroom for the host operating system (which uses around 6 GB idle), while ensuring smooth background operations for both Ubuntu Server and future lab workloads.
+* **Storage (25 GB dynamic):** Ensures the virtual disk only consumes actual written data on the host drive while meeting OS package and snapshot overhead requirements.
+
+### Settings that differ from the defaults, and why
+
+| Setting | Default value | Configured value | Justification / Reason |
+|---|---|---|---|
+
