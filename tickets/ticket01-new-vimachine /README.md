@@ -71,5 +71,12 @@ myself? Thanks
       |---|---|
       | [evidence1](evidence/lab02osa.png) | Proves that the VirtualBox Guest Additions ISO was mounted as drive D: and that the core installation wizard was successfully launched with mandatory guest integration components pre-selected. |
       | [evidence1](evidence/test)] | Proves the successful base deployment and first boot of the Windows 11 Enterprise Evaluation guest operating system inside the VirtualBox virtual machine. |
-      | [evidence1](evidence/test)] | 
+      | [evidence1](evidence/test)] | Proves successful hypervisor gateway reachability |
+      | [evidence1](evidence/test)] | Proves that an elevated administrator session successfully registered an inbound Windows Firewall rule allowing incoming ICMPv4 (ping) traffic. |
+
+      ## 5. What I would do differently
       
+    - I would look at guide carefully and be more focudes
+    - I would ask Aigerim a questions that i had
+    - I wouldn't trust something like this to me definentily
+    - I would like to work with people who had/have a background 
