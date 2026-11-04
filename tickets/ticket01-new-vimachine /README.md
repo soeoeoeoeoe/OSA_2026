@@ -70,10 +70,14 @@ myself? Thanks
       | file | What it proves |
       |---|---|
       | [evidence1](evidence/lab02osa.png) | Proves that the VirtualBox Guest Additions ISO was mounted as drive D: and that the core installation wizard was successfully launched with mandatory guest integration components pre-selected. |
-      | [evidence1](evidence/test)] | Proves the successful base deployment and first boot of the Windows 11 Enterprise Evaluation guest operating system inside the VirtualBox virtual machine. |
+      | [evidence1](evidence)] | Proves the successful base deployment and first boot of the Windows 11 Enterprise Evaluation guest operating system inside the VirtualBox virtual machine. |
       | [evidence1](evidence/test)] | Proves successful hypervisor gateway reachability |
       | [evidence1](evidence/test)] | Proves that an elevated administrator session successfully registered an inbound Windows Firewall rule allowing incoming ICMPv4 (ping) traffic. |
-
+      | [evidence1](evidence/test)] | Proves successful installation and authentication on Ubuntu Server 26.04.1 LTS, showing the active IP address 10.0.2.4 on interface enp0s3, system resource stats, and the verified lsb_release -a output. |
+      | [evidence1](evidence/test)] | evidence/screen ubuntu osa.png — Proves that the primary network interface enp0s3 is operational and in an UP state with the active IPv4 address 10.0.2.4/24 via the output of ip -br a |
+      | [evidence1](evidence/test) | evidence/ubuntu 01 osa.png — Proves successful execution of Step 7 guest inspection commands (lsb_release -a, hostname, nproc, free -h, df -h /, ip -br a) while documenting SSH connection failures caused by running host-targeted commands from inside the guest. |
+      | [evidence1](evidence/test) | Proove that i did a snapshoot |
+      
       ## 5. What I would do differently
       
     - I would look at guide carefully and be more focudes
