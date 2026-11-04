@@ -37,7 +37,7 @@ Pair: Diana O. / Inzhu Driver first half: Inzhu Machine: Windows 12 CPU, 15.3 GB
 
 # Evidence:
 
-[evidence/lab02 osa.png](evidence/.gitkeep) Starting menu entrence
+[evidence/lab02 osa.png](evidence/https://github.com/soeoeoeoeoe/OSA_2026/blob/main/evidence/lab02%20osa.png?raw=true) Starting menu entrence
 [evidence/lab2 osa.png](evidence/.gitkeep) The menu of the Windows
 [evidence/VirtualBox_lab-windows02_31_10_2026_22_55_41.png](evidence/.gitkeep) Denied acssess to connect with ubuntu on NAT Network 
 [evidence/VirtualBox_lab-windows02_31_10_2026_23_05_47.png](evidence/
