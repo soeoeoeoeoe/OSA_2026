@@ -14,12 +14,12 @@ Pair: Diana O. / Inzhu Driver first half: Inzhu Machine: Windows 12 CPU, 15.3 GB
 
           Internet
              |
-  Host laptop 192.168.56.1 (campus Wi-Fi)
+ ## Host laptop 192.168.56.1 (campus Wi-Fi)
              |
-      [VM NAT  10.0.2.0/24]
+     ## [VM NAT  10.0.2.0/24]
       /                    \
-  lab01-ubuntu               lab02-windows
-  10.0.2.4                       10.0.2.3
+ ## lab01-ubuntu             ##  lab02-windows
+ ## 10.0.2.4                    ##   10.0.2.3
 
 # Result
 
