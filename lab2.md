@@ -37,4 +37,4 @@ Pair: Diana O. / Inzhu Driver first half: Inzhu Machine: Windows 12 CPU, 15.3 GB
 
 # Evidence:
 
-
+[evidence/lab02 osa.png](evidence/gitkeep) Starting menu entrence
