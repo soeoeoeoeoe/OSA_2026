@@ -38,5 +38,7 @@ Pair: Diana O. / Inzhu Driver first half: Inzhu Machine: Windows 12 CPU, 15.3 GB
 # Evidence:
 
 [evidence/lab02 osa.png](evidence/.gitkeep) Starting menu entrence
-[evidence<img width="709" height="238" alt="{FD369B29-071B-4912-8CCA-845A32D60115}" src="https://github.com/user-attachments/assets/aa42ae21-1b8a-4e44-ad44-f247b6635d19" />
+[evidence/lab2 osa.png](evidence/.<img width="709" height="238" alt="{FD369B29-071B-4912-8CCA-845A32D60115}" src="https://github.com/user-attachments/assets/a9ba77ce-2418-4887-b8df-52b5d65cf26e" />) The menu of the Windows
+
+
 
