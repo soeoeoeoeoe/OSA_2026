@@ -37,11 +37,11 @@ Pair: Diana O. / Inzhu Driver first half: Inzhu Machine: Windows 12 CPU, 15.3 GB
 
 # Evidence:
 
-[evidence/lab02 osa.png](evidence/.gitkeep) Starting menu entrence
-[evidence/lab2 osa.png](evidence/.gitkeep) The menu of the Windows
-[evidence/VirtualBox_lab-windows02_31_10_2026_22_55_41.png](evidence/.gitkeep) Denied acssess to connect with ubuntu on NAT Network 
-[evidence/VirtualBox_lab-windows02_31_10_2026_23_05_47.png](evidence/.gitkeep) Successuful connect to ubuntu from NAT Network
-[evidence/ubuntu_network_sccreen.png](evidence/.gitkeep) Check window's network on ubuntu 
+## [evidence/lab02 osa.png](evidence/.gitkeep) Starting menu entrence
+## [evidence/lab2 osa.png](evidence/.gitkeep) The menu of the Windows
+## [evidence/VirtualBox_lab-windows02_31_10_2026_22_55_41.png](evidence/.gitkeep) Denied acssess to connect with ubuntu on NAT Network 
+## [evidence/VirtualBox_lab-windows02_31_10_2026_23_05_47.png](evidence/.gitkeep) Successuful connect to ubuntu from NAT Network
+## [evidence/ubuntu_network_sccreen.png](evidence/.gitkeep) Check window's network on ubuntu 
 
 
 
