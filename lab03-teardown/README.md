@@ -3,7 +3,7 @@
 ## Part 1 
 
 ### AMD Ryzen 5 7600
-https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/ASUS%20materinskaya%20plata.jpg
+
 
 **Caption:** 6-core / 12-thread desktop processor, base clock 3.8 GHz, boost up to 5.1 GHz, 65 W TDP, Zen 4 architecture.  
 Connects to AM5 socket. Supports DDR5 memory.  
@@ -18,6 +18,7 @@ Limit: Works only with LGA 1700 motherboards.Comes with Intel Laminar RM1 stock 
 Source:https://www.intel.com/content/www/us/en/support/ru-banner.html
 
 ### ASUS PRIME B650M-A
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/ASUS%20materinskaya%20plata.jpg
 
 Caption: micro-ATX motherboard with AMD B650 chipset.Has AM5 socket and DDR5 memory slots (up to 4 DIMMs). Supports Ryzen 7000 series processors.
 Limit: Only AM5 CPUs and DDR5 memory. Does not support Intel processors or DDR4 RAM.
