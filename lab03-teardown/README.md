@@ -34,3 +34,36 @@ Source:https://www.msi.com/index.php
 Caption: 16 GB DDR5 desktop memory module, speed 5600 MT/s, DIMM form factor.
 Connects to DDR5 DIMM slots on the motherboard.
 Limit: Works only on motherboards that support DDR5. Physically will not fit into DDR4 slots.
+Source:https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory
+
+### Crucial DDR4-3200 16 GB DIMM
+
+Caption: 16 GB DDR4 desktop memory module, speed 3200 MT/s, DIMM form factor.
+Connects to DDR4 DIMM slots on the motherboard.
+Limit: Works only on motherboards that support DDR4. Physically will not fit into DDR5 slots.
+
+### Samsung 990 PRO 1 TB
+
+Caption: 1 TB NVMe SSD, PCIe 4.0 interface, M.2 2280 form factor.
+Connects to an M.2 slot on the motherboard.
+Limit: Requires an M.2 slot with PCIe support. Cannot be connected via SATA.
+Source:https://www.samsung.com/us/
+
+### Samsung 870 EVO 1 TB
+
+Caption: 1 TB SATA SSD, 2.5-inch form factor.
+Connects to a SATA port + SATA power cable.
+Limit: Limited by SATA interface speed (maximum around 550 MB/s). Slower than NVMe drives.
+Source:https://www.samsung.com/us/
+
+### Corsair RM750e 750 W
+Caption: 750 W ATX power supply, 80 PLUS Gold efficiency, fully modular.
+Connects to the motherboard via 24-pin ATX and CPU 8-pin (EPS) connectors. Also powers drives and graphics card.
+Limit: Total system power consumption must stay under 750 W.
+Source:https://www.corsair.com/us/en/p/psu/cp-9020295-na/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-cp-9020295-na
+
+### Stock cooler (Wraith Stealth)
+Caption: AMD Wraith Stealth stock cooler that comes in the box with the Ryzen 5 7600.
+Connects directly to the CPU (AM5 mounting).
+Limit: Designed for 65 W TDP processors. Not suitable for high-power CPUs without good case airflow.
+Source:https://www.amd.com/en/products/processors/ecosystem/cpu-cooler-solutions.html
