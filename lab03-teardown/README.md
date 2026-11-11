@@ -47,7 +47,7 @@ Connects to DDR4 DIMM slots on the motherboard.
 Limit: Works only on motherboards that support DDR4. Physically will not fit into DDR5 slots.
 
 ### Samsung 990 PRO 1 TB
-
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Samsung%20990%20Pro.jpg
 Caption: 1 TB NVMe SSD, PCIe 4.0 interface, M.2 2280 form factor.
 Connects to an M.2 slot on the motherboard.
 Limit: Requires an M.2 slot with PCIe support. Cannot be connected via SATA.
