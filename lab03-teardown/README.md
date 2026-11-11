@@ -68,6 +68,7 @@ Limit: Total system power consumption must stay under 750 W.
 Source:https://www.corsair.com/us/en/p/psu/cp-9020295-na/rme-series-rm750e-fully-modular-low-noise-atx-power-supply-cp-9020295-na
 
 ### Stock cooler (Wraith Stealth)
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Stock%20cooler%20(Wraith%20Stealth)%20ASUS.jpg
 Caption: AMD Wraith Stealth stock cooler that comes in the box with the Ryzen 5 7600.
 Connects directly to the CPU (AM5 mounting).
 Limit: Designed for 65 W TDP processors. Not suitable for high-power CPUs without good case airflow.
