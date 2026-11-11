@@ -33,6 +33,7 @@ Limit: Works only on motherboards that support DDR5. Physically will not fit int
 Source:https://www.msi.com/index.php
 
 ### Kingston FURY Beast DDR5-5600 16 GB
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Kingston%20fury.jpg
 
 Caption: 16 GB DDR5 desktop memory module, speed 5600 MT/s, DIMM form factor.
 Connects to DDR5 DIMM slots on the motherboard.
