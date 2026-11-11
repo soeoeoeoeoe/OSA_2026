@@ -3,6 +3,7 @@
 ## Part 1 
 
 ### AMD Ryzen 5 7600
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/ASUS%20materinskaya%20plata.jpg
 
 **Caption:** 6-core / 12-thread desktop processor, base clock 3.8 GHz, boost up to 5.1 GHz, 65 W TDP, Zen 4 architecture.  
 Connects to AM5 socket. Supports DDR5 memory.  
