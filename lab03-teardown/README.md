@@ -103,3 +103,26 @@ Source:https://www.amd.com/en/products/processors/ecosystem/cpu-cooler-solutions
 
 ### Pictures:
 In evidence/Photos
+
+## Part 2 — Same facts, three operating systems 
+
+| Fact |	Windows (PowerShell) |	Linux (Ubuntu) |	macOS |
+|---|---|---|---|
+| CPU model |	Get-CimInstance Win32_Processor |Select Name |	lscpu |	sysctl -n machdep.cpu.brand_string |
+| Cores / threads |	Get-CimInstance Win32_Processor | Select NumberOfCores, NumberOfLogicalProcessors | lscpu |	sysctl hw.physicalcpu hw.logicalcpu |
+| Total memory |	Get-CimInstance Win32_PhysicalMemory|Select Capacity |	ree -h |	sysctl hw.memsize |
+| Memory modules and speed | Get-CimInstance Win32_PhysicalMemory | Select Speed, FormFactor |	sudo dmidecode -t memory |	system_profiler SPMemoryDataType |
+| Disk model and type |	Get-PhysicalDisk | Select FriendlyName, MediaType, BusType |lsblk -d -o NAME,MODEL,ROTA,TRAN,SIZE |	diskutil info disk0 |
+| Free space |	Get-Volume C |	df -h / |	df -h / |
+| Architecture |	$env:PROCESSOR_ARCHITECTURE | uname -m |	uname -m |
+|---|---|---|---|
+
+### Difference: 
+The naming conventions differ greatly (e.g., Win32_PhysicalMemory in Windows vs dmidecode in Linux). Inside the Linux VM, the hypervisor hides the real hardware: lsblk shows a virtual disk (like VBOX HARDDISK) instead of the physical NVMe, and dmidecode cannot show the real memory speed because the VM abstracts RAM into generic blocks.
+
+## What did not work at first time: 
+
+When running dmidecode -t memory on Linux, I received a "Permission denied" error because it tries to read hardware firmware tables. I had to run it again as sudo dmidecode -t memory to make it work.
+And it wont run  again so i needed to reload it again so it can ran and it helped me. 
+
+
