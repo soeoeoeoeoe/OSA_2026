@@ -67,3 +67,31 @@ Caption: AMD Wraith Stealth stock cooler that comes in the box with the Ryzen 5 
 Connects directly to the CPU (AM5 mounting).
 Limit: Designed for 65 W TDP processors. Not suitable for high-power CPUs without good case airflow.
 Source:https://www.amd.com/en/products/processors/ecosystem/cpu-cooler-solutions.html
+
+---
+
+## Two builds 
+
+### Build 1
+| Part | Model | Why it fits here |
+|---|---|---|
+| Processor | AMD Ryzen 5 7600 | AM5 socket |
+| Motherboard | ASUS PRIME B650M-A | AM5 + DDR5 |
+| Memory | Kingston FURY Beast DDR5-5600 | DDR5 supported |
+| SSD | Samsung 990 PRO 1 TB | M.2 slot |
+| Power Supply | Corsair RM750e | Enough wattage |
+
+**What this build still needs:** case, GPU, second cooler (or keep the stock one), etc.
+
+### Build 2
+| Part | Model | Why it fits here |
+|---|---|---|
+| Processor | Intel Core i5-13400 | LGA 1700 |
+| Motherboard | MSI PRO B760M-A WIFI DDR4 | LGA 1700 + DDR4  |
+| Memory | Crucial DDR4-3200 | DDR4 supported |
+| SSD | Samsung 870 EVO 1 TB | SATA or M.2 |
+| Power Supply  | (or share) |       |
+
+**What this build still needs:** a PC case, a discrete GPU (optional), a second RAM stick for dual-channel, and a CPU cooler (the stock cooler is assigned to the other build).
+
+
