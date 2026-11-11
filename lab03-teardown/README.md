@@ -54,7 +54,7 @@ Limit: Requires an M.2 slot with PCIe support. Cannot be connected via SATA.
 Source:https://www.samsung.com/us/
 
 ### Samsung 870 EVO 1 TB
-
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Samsung%20870.jpg
 Caption: 1 TB SATA SSD, 2.5-inch form factor.
 Connects to a SATA port + SATA power cable.
 Limit: Limited by SATA interface speed (maximum around 550 MB/s). Slower than NVMe drives.
