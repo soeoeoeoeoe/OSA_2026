@@ -26,7 +26,7 @@ Limit: Only AM5 CPUs and DDR5 memory. Does not support Intel processors or DDR4 
 Source:https://www.asus.com/
 
 ### MSI PRO B760M-A WIFI DDR4
-
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/MSI%20PRO.jpg
 Caption: 16 GB DDR5 desktop memory module, speed 5600 MT/s, DIMM form factor.
 Connects to DDR5 DIMM slots on the motherboard.
 Limit: Works only on motherboards that support DDR5. Physically will not fit into DDR4 slots.
