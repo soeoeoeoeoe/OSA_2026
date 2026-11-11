@@ -96,3 +96,4 @@ Source:https://www.amd.com/en/products/processors/ecosystem/cpu-cooler-solutions
 **What this build still needs:** a PC case, a discrete GPU (optional), a second RAM stick for dual-channel, and a CPU cooler (the stock cooler is assigned to the other build).
 
 ### Pictures:
+In evidence/Photos
