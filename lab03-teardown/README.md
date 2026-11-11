@@ -12,6 +12,7 @@ Source: https://www.amd.com/en/search/site-search.html#q=amd%20ryzen%205%207600
 
 ### Intel Core i5-13400
 https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/INtel%20Core.webp
+
 **Caption:**10-core (6P + 4E) / 16-thread desktop processor, base 2.5 GHz, boost up to 4.6 GHz, 65 W TDP.
 Connects to LGA 1700 socket. Supports both DDR4 and DDR5 memor
 Limit: Works only with LGA 1700 motherboards.Comes with Intel Laminar RM1 stock cooler.
