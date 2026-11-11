@@ -41,7 +41,7 @@ Limit: Works only on motherboards that support DDR5. Physically will not fit int
 Source:https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-memory
 
 ### Crucial DDR4-3200 16 GB DIMM
-
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Curcial.jpg
 Caption: 16 GB DDR4 desktop memory module, speed 3200 MT/s, DIMM form factor.
 Connects to DDR4 DIMM slots on the motherboard.
 Limit: Works only on motherboards that support DDR4. Physically will not fit into DDR5 slots.
