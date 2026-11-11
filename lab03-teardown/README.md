@@ -58,6 +58,7 @@ Limit: Limited by SATA interface speed (maximum around 550 MB/s). Slower than NV
 Source:https://www.samsung.com/us/
 
 ### Corsair RM750e 750 W
+https://github.com/soeoeoeoeoe/OSA_2026/blob/main/lab03-teardown/evidence/photos/Corsasiar.jpg
 Caption: 750 W ATX power supply, 80 PLUS Gold efficiency, fully modular.
 Connects to the motherboard via 24-pin ATX and CPU 8-pin (EPS) connectors. Also powers drives and graphics card.
 Limit: Total system power consumption must stay under 750 W.
