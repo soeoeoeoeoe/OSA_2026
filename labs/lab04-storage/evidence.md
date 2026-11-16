@@ -16,8 +16,8 @@ PS C:\Users\Inzhu Diana> Get-Volume | Where FileSystemLabel -eq 'LAB04'
 
 DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalStatus SizeRemaining       Size
 ----------- ------------ -------------- --------- ------------ ----------------- -------------       ----
-E           LAB04        NTFS           Fixed     Healthy      OK                    989.23 MB 1007.93 MB'''
-
+E           LAB04        NTFS           Fixed     Healthy      OK                    989.23 MB 1007.93 MB
+'''
 
 
 ## Linux — layout before and after
