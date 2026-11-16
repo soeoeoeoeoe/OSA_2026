@@ -3,7 +3,8 @@
 Pair: Inzhu + Diana · Date: 16.11.26 · Hypervisor: VirtualBox
 
 ## Windows 
-'''PS C:\Users\Inzhu Diana> Get-Disk | Select Number, FriendlyName, PartitionStyle, Size
+'''powershell
+PS C:\Users\Inzhu Diana> Get-Disk | Select Number, FriendlyName, PartitionStyle, Size
 
 Number FriendlyName  PartitionStyle        Size
 ------ ------------  --------------        ----
