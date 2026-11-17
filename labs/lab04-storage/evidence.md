@@ -94,6 +94,6 @@ sudo update-initramfs -u
 
 | Healthy | [2/2] [UU] | [evidence/array-healthy.txt](evidence/array-healthy.txt) |
 
-| Degraded | [2/1] [U_] | evidence/array-degraded.txt |
+| Degraded | [2/1] [U_] | [evidence/array-degraded.txt](evidence/array-degraded.txt) |
 
-| Rebuilt | [2/2] [UU], sdd1 replaced sdc1 | evidence/array-rebuilt.txt |
+| Rebuilt | [2/2] [UU], sdd1 replaced sdc1 | [evidence/array-rebuilt.txt](evidence/array-rebuilt.txt) |
