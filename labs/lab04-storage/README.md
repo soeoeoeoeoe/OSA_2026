@@ -95,3 +95,10 @@ sudo update-initramfs -u
 | Rebuilt | [2/2] [UU], sdd1 replaced sdc1 | [evidence/array-rebuilt.txt](evidence/array-rebuilt.txt) |
 
 Checksums before and after the failure: [evidence/checksum-before.txt](evidence/checksum-before.txt) [evidence/checksum-after-failure.txt](evidence/checksum-after-failure.txt)
+
+## RAID is not a backup
+### No, RAID 1 does not provide protection against accidental deletion. It continuously mirrors every write and delete operation across both disks in real time. As a result, when a file is deleted, it is immediately removed from both drives simultaneously. 
+
+## What did not work the first time
+### 1.When creating the virtual hard disks in VirtualBox, entering only the filename (`lab04-d1`) resulted in the error `The given path 'lab04-d1.vdi' is not fully qualified`. The issue was resolved only after specifying the full folder path and setting the disk size to `1.00 GB`. 
+### 2.In Ubuntu, pasting the `parted` command without a space (`-s/dev/$d`) produced the error `invalid option -- '/'`. Additionally, a typo in the device path (`/dev/sbd` instead of `/dev/sdb`) resulted in `No such file or directory`.
