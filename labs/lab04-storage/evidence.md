@@ -92,7 +92,7 @@ sudo update-initramfs -u
 
 | --- | --- | --- |
 
-| Healthy | [2/2] [UU] | evidence/array-healthy.txt |
+| Healthy | [2/2] [UU] | [evidence/array-healthy.txt](evidence/array-healthy.txt) |
 
 | Degraded | [2/1] [U_] | evidence/array-degraded.txt |
 
