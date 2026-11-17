@@ -94,4 +94,4 @@ sudo update-initramfs -u
 | Degraded | [2/1] [U_] | [evidence/array-degraded.txt](evidence/array-degraded.txt) |
 | Rebuilt | [2/2] [UU], sdd1 replaced sdc1 | [evidence/array-rebuilt.txt](evidence/array-rebuilt.txt) |
 
-Checksums before and after the failure: [evidence/checksum-before.txt](evidence/checksum-before.txt)
+Checksums before and after the failure: [evidence/checksum-before.txt](evidence/checksum-before.txt) [evidence/checksum-after-failure.txt](evidence/checksum-after-failure.txt)
