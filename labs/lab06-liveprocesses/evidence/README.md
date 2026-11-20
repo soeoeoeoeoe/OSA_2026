@@ -3,8 +3,8 @@
 Pair: Inzhu + Diana · Date: 18.11 - 19.11 · Guests: Ubuntu/ Windows
 
 ## Part 1 — One process, three tools
-Process chosen: <name> — why: <one sentence>
-<the comparison table>
+Process chosen: VBoxService — why: It is the VirtualBox Guest Additions background service present on both guest operating systems, making it ideal for comparing how Windows and Linux report process metadata and memory.
+|---| Task Manager | 
 ### Where the tools disagree
 <at least one disagreement, with the reason>
 
