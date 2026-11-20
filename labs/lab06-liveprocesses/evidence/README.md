@@ -1,6 +1,6 @@
 # Lab 6 — Live processes and memory pressure
 
-Pair: <name> + <name> · Date: <date> · Guests: <Ubuntu version / Windows edition, RAM of each>
+Pair: Inzhu + Diana · Date: 18.11 - 19.11 · Guests: Ubuntu/ Windows
 
 ## Part 1 — One process, three tools
 Process chosen: <name> — why: <one sentence>
