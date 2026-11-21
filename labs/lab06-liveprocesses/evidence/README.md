@@ -69,4 +69,4 @@ Explanation: Because the Windows guest never depleted its virtual memory (commit
 
 **Empty Handle List in Process Explorer:** Inspecting `VBoxService.exe` properties in Process Explorer without administrator privileges displayed `<access denied>` in the User field and prevented individual handle names from appearing in the lower pane, even though Task Manager still displayed the aggregate handle count (`200`).
 
-##Evidence
+## Evidence
