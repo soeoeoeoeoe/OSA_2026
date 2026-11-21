@@ -18,8 +18,10 @@ Process chosen: VBoxService — why: It is the VirtualBox Guest Additions backgr
 | Threads |	14 |	14 |	9 (nlwp) |
 
 ### Where the tools disagree
-<at least one disagreement, with the reason>
-
+1.Memory column and Working Set / RES: Task Manager's default "memory" column shows the private working set (1,120 K), whereas Process Explorer's default column shows Private Bytes (2,464 K), and htop shows total physical RES (3,832 K). They display different numbers because they measure different types of memory allocation by default.
+2.Commit size, Private Bytes and VIRT: Task Manager's Commit size (2,412 K) and Process Explorer's Private Bytes (2,464 K) measure committed virtual memory and nearly match, whereas htop has no equivalent commit column and instead shows VIRT (285M), which represents the entire virtual address space reserved by the process rather than actual RAM in use.
+3.Parent process visibility: Task Manager's Details tab hides the parent process by default (—), while Process Explorer displays the process tree under services.exe (920) and htop tree view (F5) shows systemd (1).
+Handles and File Descriptors: Windows reports 200 handles in both Task Manager and Process Explorer because Windows counts kernel objects like events, registry keys, mutexes, and threads as handles, whereas Linux separates threads (9) from open file descriptors (5).
 ## Part 2 — Memory pressure
 Guest RAM: <…> · swap: <…>
 Steps: <the commands, in order>
