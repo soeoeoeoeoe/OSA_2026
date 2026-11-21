@@ -7,7 +7,7 @@ Pair: Inzhu + Diana · Date: 18.11 - 19.11 · Guests: Ubuntu/ Windows
 Process chosen: VBoxService — why: It is the VirtualBox Guest Additions background service present on both guest operating systems, making it ideal for comparing how Windows and Linux report process metadata and memory.
 
 | --- | Task Manager | Process Explorer |	htop / ps |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 |PID |	1952 |	1952 |	1038 |
 | Parent (name and PID) |	— (not shown) |	services.exe (920) |	systemd (1) |
 | "Memory" as shown by default | 1,120 K (Memory private working set) |	2,464 K (Private Bytes) |	0.3% (MEM%) / 3,832 K (RES) |
